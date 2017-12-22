@@ -16,3 +16,6 @@ rosrun controllergesture controller
 ## Documentation 
 For documentation for this release download the doc folder and open index.html .
 
+## Video 
+To see an example, see the video here: 
+
