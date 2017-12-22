@@ -9,3 +9,6 @@ We use [ROS](http://www.ros.org/).
 To launch the system with default parameters type:
 
 rosrun controllergesture controller
+
+## Documentation 
+For documentation for this release download the doc folder and open index.html .
